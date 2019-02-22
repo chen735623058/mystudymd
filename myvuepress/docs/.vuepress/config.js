@@ -31,7 +31,14 @@ module.exports = {
     ],
     sidebar: {
       '/JSbase/': [
-        'one'
+        '',
+        {
+          title: 'JS基础知识', // 必要的
+          sidebarDepth: 2, // 可选的, 默认值是 1
+          children: [
+            '/JSbase/1-Memoization知识'
+          ]
+        }
       ],
       '/guide/': [
         '',
