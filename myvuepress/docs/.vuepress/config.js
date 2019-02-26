@@ -29,6 +29,15 @@ module.exports = {
         ]
       },
       {
+        text:'我的项目',
+        items:[
+          {
+            text: 'manifest编辑器',
+            link: 'https://chen735623058.github.io/manifestEdit/dist/index.html#/'
+          }
+        ]
+      },
+      {
         text: 'github',
         link: 'https://github.com/chen735623058'
       },
@@ -42,6 +51,7 @@ module.exports = {
           children: [
             '/JSbase/1-Memoization知识',
             '/JSbase/2-纯函数相关知识',
+            '/JSbase/3-偏函数相关知识',
           ]
         }
       ],
@@ -61,7 +71,8 @@ module.exports = {
           title: '前端开发综合知识', // 必要的
           sidebarDepth: 2, // 可选的, 默认值是 1
           children: [
-            '/guide/1-PWA相关知识'
+            '/guide/1-PWA相关知识',
+            '/guide/2-二 八 十 十六进制转换',
           ]
         }
 
