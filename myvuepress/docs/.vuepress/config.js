@@ -19,8 +19,8 @@ module.exports = {
             link: '/JSbase/'
           },
           {
-            text: 'React相关',
-            link: '/Reactbase/'
+            text: 'Webgl相关',
+            link: '/Webgl/'
           },
           {
             text: 'CSS相关',
@@ -55,13 +55,13 @@ module.exports = {
           ]
         }
       ],
-      '/Reactbase/': [
+      '/Webgl/': [
         '',
         {
-          title: 'React框架知识', // 必要的
+          title: 'webgl学习', // 必要的
           sidebarDepth: 2, // 可选的, 默认值是 1
           children: [
-            '/Reactbase/1-ReactNative环境搭建'
+            '/Webgl/1-Webgl-渲染器'
           ]
         }
       ],
@@ -73,30 +73,11 @@ module.exports = {
           children: [
             '/guide/1-PWA相关知识',
             '/guide/2-二 八 十 十六进制转换',
+            '/guide/3-懒加载相关实现技术',
           ]
         }
 
       ]
     }
-    // sidebar: [{
-    //     title: 'JS相关', // 必要的
-    //     sidebarDepth: 2, // 可选的, 默认值是 1
-    //     children: [
-    //       {
-    //         title: 'J', // 必要的
-    //         sidebarDepth: 1, // 可选的, 默认值是 1
-    //         children: [
-    //           '/guide/Singoton'
-    //         ]
-    //       }
-
-    //     ]
-    //   },
-    //   {
-    //     title: 'CSS',
-    //     path: '/guide/',
-    //     children: []
-    //   }
-    // ],
   }
 }
