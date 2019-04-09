@@ -52,6 +52,7 @@ module.exports = {
             '/JSbase/1-Memoization知识',
             '/JSbase/2-纯函数相关知识',
             '/JSbase/3-偏函数相关知识',
+            '/JSbase/4-面试题JS部分',
           ]
         }
       ],
@@ -61,7 +62,8 @@ module.exports = {
           title: 'webgl学习', // 必要的
           sidebarDepth: 2, // 可选的, 默认值是 1
           children: [
-            '/Webgl/1-Webgl-渲染器'
+            '/Webgl/2-webgl-入门',
+            '/Webgl/3-webgl-绘制和变换三角形',
           ]
         }
       ],
