@@ -30,3 +30,5 @@
 2. ES6 学习
 3. vue 桌面应用开发
 4. RXJS学习
+5. 前端可视化平台搭建
+6. HTML对象之FileReader
