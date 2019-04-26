@@ -32,3 +32,4 @@
 4. RXJS学习
 5. 前端可视化平台搭建
 6. HTML对象之FileReader
+7. Cleave.js
