@@ -23,8 +23,8 @@ module.exports = {
             link: '/Webgl/'
           },
           {
-            text: 'CSS相关',
-            link: '/CSSbase/'
+            text: '游戏相关',
+            link: '/games/'
           }
         ]
       },
@@ -64,6 +64,10 @@ module.exports = {
           children: [
             '/Webgl/2-webgl-入门',
             '/Webgl/3-webgl-绘制和变换三角形',
+            '/Webgl/4-高级变换与动画基础',
+            '/Webgl/5-颜色与纹理',
+            '/Webgl/6-OpenGL ES着色器语言',
+            '/Webgl/7-进入三维世界',
           ]
         }
       ],
@@ -78,7 +82,17 @@ module.exports = {
             '/guide/3-懒加载相关实现技术',
           ]
         }
-
+      ],
+      '/games/': [
+        '',
+        {
+          title: '游戏开发和设计相关知识', // 必要的
+          sidebarDepth: 2, // 可选的, 默认值是 1
+          children: [
+            '/games/1-如何科学高效的开始一个游戏的新项目',
+            '/games/2-游戏交互音乐浅谈',
+          ]
+        }
       ]
     }
   }
