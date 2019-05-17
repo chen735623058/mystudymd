@@ -25,6 +25,10 @@ module.exports = {
           {
             text: '游戏相关',
             link: '/games/'
+          },
+          {
+            text: '读书专题---前端工程化体系设计与实践',
+            link: '/readbook/'
           }
         ]
       },
@@ -91,6 +95,21 @@ module.exports = {
           children: [
             '/games/1-如何科学高效的开始一个游戏的新项目',
             '/games/2-游戏交互音乐浅谈',
+          ]
+        }
+      ],
+      '/readbook/': [
+        '',
+        {
+          title: '前端工程化读书笔记', // 必要的
+          sidebarDepth: 2, // 可选的, 默认值是 1
+          children: [
+            '/readbook/1-前端工程化体系设计与实践/1-前言',
+            '/readbook/1-前端工程化体系设计与实践/2-前端工程简史',
+            '/readbook/1-前端工程化体系设计与实践/3-脚手架',
+            '/readbook/1-前端工程化体系设计与实践/4-项目构建',
+            '/readbook/1-前端工程化体系设计与实践/5-本地开发服务器',
+            '/readbook/1-前端工程化体系设计与实践/6-部署',
           ]
         }
       ]

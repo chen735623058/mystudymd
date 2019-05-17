@@ -55,7 +55,7 @@ const doubled = a.map(num => {
 ## 匿名函数的典型应用场景是什么？
 >1. IIFE中
 >2. 一次使用的函数
->3. 函数式变成
+>3. 函数式编程
 
 ## 宿主对象（host objects）和原生对象（native objects）的区别是什么？
 > 原生对象是由 ECMAScript 规范定义的 JavaScript 内置对象，比如String、Math、RegExp、Object、Function等等。
