@@ -1,4 +1,4 @@
-# webgl 入门
+# 2-webgl 入门
 ## 一、 canvas 理解与简单使用
 WebGL在web浏览器上使用，需要用到canvas对象，这个对象是HTML5后新加入的对象。canvas画布可是实现前端的绘画能力。可以看网站  http://caimansys.com/painter/  。
 我们还没有能力制作这么复杂的canvas工程，我们先从简单的开始，绘制一个简单的正方形。
