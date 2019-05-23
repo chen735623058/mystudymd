@@ -72,6 +72,8 @@ module.exports = {
             '/Webgl/5-颜色与纹理',
             '/Webgl/6-OpenGL ES着色器语言',
             '/Webgl/7-进入三维世界',
+            '/Webgl/8-光照',
+            '/Webgl/9-层次模型',
           ]
         }
       ],
