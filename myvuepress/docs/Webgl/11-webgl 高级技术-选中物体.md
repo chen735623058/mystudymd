@@ -221,3 +221,6 @@ function initArrayBuffer (gl, data, type, num, attribute) {
 }
 
 ```
+
+## 2.如何选中正方体的一个面
+> 在用户点击鼠标时重绘立方体，并将“每个像素属于哪个面”的信息写入到颜色缓冲区的a分两种。
