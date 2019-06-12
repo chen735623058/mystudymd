@@ -35,7 +35,7 @@ WebGL在web浏览器上使用，需要用到canvas对象，这个对象是HTML5�
 ```
 canvas 的坐标系下图所示
 
-![图1.png](https://upload-images.jianshu.io/upload_images/10319049-b34608ca623860c1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![VgG7V0.png](https://s2.ax1x.com/2019/06/11/VgG7V0.png)
 
 ## 二、 最短的WebGL程序 清空绘图区
 ```js
@@ -100,7 +100,7 @@ function main() {
 1. canvas 的中心点：（0.0,0.0,0.0）
 2. canvas 的左右边缘：（-1.0,0.0,0.0）和 （1.0,0.0,0.0）
 3. canvas 的上下边缘：（0.0,-1.0,0.0）和 （0.0,1.0,0.0）
-![图](https://upload-images.jianshu.io/upload_images/10319049-3f4e28fa2f3a8f26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[![VgJad0.png](https://s2.ax1x.com/2019/06/11/VgJad0.png)](https://imgchr.com/i/VgJad0)
 
 
 ## 五、绘制一个点2 实现JS 和 着色器之间的数据传输
