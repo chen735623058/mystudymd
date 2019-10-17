@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-02-21 09:41:13
+ * @LastEditTime: 2019-02-21 09:41:13
+ * @LastEditors: your name
+ */
 module.exports = {
   title: '七色枫叶的学习基地', // 设置网站标题
   description: '不积跬步无以至千里，不积小流无以成江河',

@@ -9,9 +9,10 @@
 2 月 | 深入JS 基础 |  
 3 月 | 深入学习ES6 相关知识 |
 4 月 | 正则表达式相关知识 |
-5 月 | CSS世界相关知识 |
-6 月 | VUE 源码 |
-7 月 | React React Native相关知识 |
+5 月 | webgl学习 |
+6 月 | Threejs学习 搭建自己的blog  golang学习 |
+7 月 | vue 深入学习 源码级别 |
+8 月 | WebAssembly 
 
 ## 2月份具体学习内容
 1. 33-js-concepts  相关知识 （完成）
