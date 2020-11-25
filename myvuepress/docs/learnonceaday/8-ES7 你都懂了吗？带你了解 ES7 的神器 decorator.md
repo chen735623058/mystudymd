@@ -1,12 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-05 14:26:39
- * @LastEditTime: 2019-12-05 14:33:52
+ * @LastEditTime: 2020-11-25 20:12:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \myvuepress\docs\每日一学\8-ES7 你都懂了吗？带你了解 ES7 的神器 decorator.md
  -->
-ES7 你都懂了吗？带你了解 ES7 的神器 decorator
+# ES7 你都懂了吗？带你了解 ES7 的神器 decorator
 https://toutiao.io/posts/23ve11/preview
 es7带来了很多更强大的方法，比如async/await,decorator等，相信大家对于async/await已经用的很熟练了，下面我们来讲一下decorator。
 

@@ -1,4 +1,4 @@
-require和import的区别
+# require和import的区别
 遵循规范
 
 –require 是 AMD规范引入方式
